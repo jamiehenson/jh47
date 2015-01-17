@@ -15,6 +15,8 @@ I've been here for about three months now - just long enough (I'd say) to claim 
 
 Bristol is a wonderful city with a strong pulse. I don't miss the University per se, but the city itself, and the people I met during University who still live there, either at Uni or in the working life. I was ready to graduate and move away from academia, having done my part and received my grade. But I've found it increasingly hard moving from such an active musical lifestyle to having nothing. I keep up playing music as a hobby, yes, but there isn't that community, that outlet to play it publicly, and enjoy it with others, friends, who are into the same thing as you. At least, I haven't found it yet.
 
+<!-- more -->
+
 Things are different in America. It's not better than the UK, and it's not worse. It's just different. It's interesting noting cultural differences - there's a different conversational style, a different sense of humour, different social expectations. British conversation staples such as the weather, laced with a touch of self-deprecation are lost on the Americans, whereas several American nuances of a more direct approach are lost on me. We share (or rather, they've inherited) a language, but conversation isn't usually as fluid as with my British counterparts - naturally because I've been a part of one culture for 22 years, and the other for a mere three months. There's a lot to pick up on.
 
 Previously in my life the run up to Christmas has always followed a sort of loose routine, but here the traditions and even the environment (it's still basically Summer, for a start) are rather set apart from what I'm used to. Ordinarily it's a time to spend with family, whereas I'm not able to do that this year. In short, I'm a little out of my comfort zone.
