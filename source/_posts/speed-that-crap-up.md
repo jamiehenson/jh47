@@ -13,6 +13,8 @@ A recent assignment opened up a whole new thought process when it came to writin
 
 Computers are fast right? Surely it doesn't matter how long what you write will take to work when its of this scale, as long as it works? And computers have loads of memory, it doesn't matter surely if it takes up a little bit more room than needed?
 
+<!-- more -->
+
 Wrong actually. It would have been so easy to write a program for the topic at hand ([string matching with wildcard characters](http://stringpedia.bsmithers.co.uk/index.php?title=Exact_Pattern_Matching_With_Don "Exact_Pattern_Matching_With_Don")) that ran in a way that still seemed instantaneous for moderately small inputs. Instead, we discovered how much of a ballache, yet how useful faster methods are, when you're using large, and realistically sized inputs.
 
 Using a method called FFT (Fast Fourier Transform), the program I eventually completed ran considerably quicker than how it would have in the way I would have first thought of (for maths types, in O(nlogn) time as opposed to O(n^2)). Instantaneous for small inputs, but when I fed War &amp; Peace in, and told it to match a small bit of text, the result came back within a blink of eye - as opposed to seconds. Still not a great difference. But take a look at this:

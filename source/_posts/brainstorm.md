@@ -17,6 +17,8 @@ The previous two posts on this blog are brief reviews of two papers that have be
 
 As a group, we all have a leaning towards musical interfaces, with Ben and I having experience in [publishing a paper](http://www.eecs.umich.edu/nime2012/Proceedings/papers/131_Final_Manuscript.pdf "Kugelschwung") in the area, and James and I being members of several musical groups around Bristol, performing music in a variety of styles. Therefore, despite working individually at the start of the brainstorming session to form the ideas shown in the image below, all of the ideas had a musical grounding.
 
+<!-- more -->
+
 [caption id="attachment_549" align="aligncenter" width="480"][![Brainstorming notes composite](http://jh47.com/wp-content/uploads/2013/10/brainstorming-notes-composite-1024x419.jpg)](http://jh47.com/wp-content/uploads/2013/10/brainstorming-notes-composite.jpg) Initial unrefined ideas grouped into three sections: Computer Vision, Sound and Tactile Interfaces (click to expand)[/caption]
 
 My contributions to the initial ideas-gathering were as follows:

@@ -8,6 +8,8 @@ tags:
 
 We've been at the point now for a while where the interface itself has been complete (in a physical sense, at least), and any additional changes made have been to the software side of things. Pure Data is notoriously open-ended, and so we've been experimenting with many things to make the interface both more responsive and more capable in terms of what it can actually do. Over the last week, James and I concentrated on the musical side of things, whereas Ben concentrated on the paper - providing us with a complete first draft over the course of this week.
 
+<!-- more -->
+
 As mentioned in the last post, we transferred from using the absolute readings from the water sensors, to calculating the rate of change - for a more robust result. Due to the success and precision of this method, we decided to remove the six metronomes that previously drove the synthesiser - introduced to counteract the MIDI feedback that arose from having six continually firing inputs. This meant that the response was truly live, instead of having to adhere to slow metronomic cycles. Furthermore, we also experimented with using second-order differentials instead of first-order differentials, which produced a more harshly-decaying sound, but also one that was generally less responsive overall. Thus, we reverted back to using first-order differentials.
 
 [caption id="attachment_641" align="aligncenter" width="680"][![Perfecting the software aspect](http://jh47.com/wp-content/uploads/2013/12/2013-12-05-17.07.51-1024x757.jpg)](http://jh47.com/wp-content/uploads/2013/12/2013-12-05-17.07.51.jpg) Perfecting the software aspect[/caption]

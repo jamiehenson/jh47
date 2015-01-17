@@ -15,6 +15,8 @@ Today I took myself off to Manchester to see the Alan Turing exhibition at Manch
 
 I knew the odd thing about the man and his work through my course - I studied the life of Turing for a report I wrote last year, and attended a talk by his primary biographer. Plus, the man practically _invented_ my course, and so you can't call yourself a computer scientist if you don't at least have a passing interest in what he did.
 
+<!-- more -->
+
 What I was surprised to find out when I got to the exhibition was that it was on morphogenesis, a lesser-known and later portion of his work - what he was working on before he took his own life in unfortunate circumstances in 1954.
 
 Notably different from the purely mathematical nature of his earlier work (the highly influential "On Computable Numbers..." from 1936 for instance), morphogenesis relates to the mathematical study of how an organism takes its shape, and how the physical conditions of the environment have an effect. Why coral grows the way it does, why all cows have different patterns, et cetera.

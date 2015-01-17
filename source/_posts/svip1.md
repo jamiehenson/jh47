@@ -14,6 +14,8 @@ Well, I'm finally here! Five months ago, I received a piece of news that rende
 
 Back before University I remember always wanting to go to the States - Bristol's year abroad program was part of the reason I chose it (even though I ended up not going in the end). Last year a mate on my course applied for the Silicon Valley Internship Program ([SVIP](http://www.siliconvalleyinternship.com/)) and I must say I didn't give it much thought at the time. That was until he got onto the scheme, and then suddenly my indifference elevated to "Shit. I want to do that!".
 
+<!-- more -->
+
 So this year I applied, and after months of gruelling interviews, knockout stages and a Google's-worth of prep I too made it onto the programme, at (as luck would have it) the same company as my fellow ex-Bristolian.
 
 When I got the news I couldn't quite believe it, I literally couldn't (and still can't) think of a better way to progress after University than this - an opportunity to work for a year in Silicon Valley with a startup at the cutting edge of their area. Tech Mecca. Tekker.

@@ -16,6 +16,8 @@ For me, Spotify was always the king when it came to music streaming. I was an ea
 
 I tried a few out. All operated on a similar fundamental level (same bitrates, catalogue sizes, price etc), but had distinct ups and downs when comparing useful features.
 
+<!-- more -->
+
 **Spotify** is still highly competent: it offers a huge collection, high performance delivery, and very good social integration (take it or leave it) with third-party apps extending the existing offerings. But I found that the radio service I previously loved was starting to churn out the same old stuff, and that the app hadn't really advanced functionally in a long time.
 
 As an Android user, I tried **Google Music All Access** first, finding that it solved all the problems Spotify posed, whilst taking away some of its good points. Its catalogue is massive, but it is unique in its ability to allow you to fill in the gaps by uploading your own music to the mix. Also, the radio is excellent - intelligent, fresh, and very well implemented. Furthermore, perhaps somewhat unsurprisingly, Google's service offers exemplary Chromecast support - allowing slick usage of the little stick from both mobile and desktop devices.

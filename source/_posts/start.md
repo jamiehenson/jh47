@@ -19,6 +19,8 @@ Last week, we came up with ~30 musically-inspired project ideas and gradually na
 
 We discussed this decision immediately, and unanimously decided that we would go for WTW over TS. This was because of the greater emphasis on software for WTW over hardware, which would have been the primary focus of TS - and the admission that software was our stronger area. Furthermore, from a musical and expressive point of view WTW was more interesting - since it involves the generation of live music and visuals from a physical environment, instead of just modulating existing sound.
 
+<!-- more -->
+
 We had our idea set, but that was just the start. The next step in the process was to discuss in greater detail what the interface would do (specifically), what the physical configuration of the interface would entail, and what equipment we would need to make it happen.
 
 Firstly though, we started by unpacking and configuring an Arduino starter kit,  which we had been presented with at the very start of the session. None of us had any prior experience with an Arduino board (as by our own admission, none of us are particularly hardware-oriented), and so since it was one of the recommended and most available tools at our disposal we set towards learning more about the board.

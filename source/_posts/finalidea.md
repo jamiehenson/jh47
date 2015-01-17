@@ -17,6 +17,8 @@ date: 2013-10-26 17:21:05
 
 As mentioned in the previous post, we narrowed ~30 unrefined project ideas down to two, and then during Tuesday’s lab session, narrowed that number down further to one final idea - whilst also further expanding the project definition.
 
+<!-- more -->
+
 Of the two ideas originally proposed, we have opted to focus on **Waves To Waves** as our final project basis. To summarise, Waves To Waves is a musical interface that interprets the movement of water, and outputs sound and visuals directly relating to this motion. Below is a diagram detailing the proposed physical construction for the interface:
 
 [caption id="attachment_585" align="aligncenter" width="800"][![A diagram of the physical configuration of Waves To Waves](http://jh47.com/wp-content/uploads/2013/10/firstdesign2.png)](http://jh47.com/wp-content/uploads/2013/10/firstdesign2.png) A diagram of the physical configuration of Waves To Waves[/caption]

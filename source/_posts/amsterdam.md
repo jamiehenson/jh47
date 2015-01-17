@@ -17,6 +17,8 @@ Earlier this year, I decided that I should travel more. I have an income now (of
 
 First was to go to Amsterdam, this past weekend. Coincidentally, it was also my 21st birthday on the Saturday, so what better way to make something of it! My birthday lies in a crap point of the year, especially these days. It sits in the limbo period between people being at home, and people being at University, so it’s hard to get something with large numbers arranged. Me and two others went, it’s an easy number to manage.
 
+<!-- more -->
+
 The total cost (flights, accommodation and other initial costs) was roughly £180 for 3 nights, Friday to Monday. By the end we’d probably spent around £300 each, not a bad amount.
 
 [![P1030051](http://jh47.com/wp-content/uploads/2012/09/P1030051_thumb.jpg "P1030051")](http://jh47.com/wp-content/uploads/2012/09/P1030051.jpg)[![P1030050](http://jh47.com/wp-content/uploads/2012/09/P1030050_thumb.jpg "P1030050")](http://jh47.com/wp-content/uploads/2012/09/P1030050.jpg)

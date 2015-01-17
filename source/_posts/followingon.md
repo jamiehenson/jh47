@@ -13,6 +13,8 @@ A long while back I wrote a post aimed at pre-freshers about what to expect in t
 
 Second year has gone alarmingly quickly so far. The events of freshers in year one seem like millenia away, yet the memories are still very recent - reminders that those times were very much different to now. These days, I'm working all night not because I'm necessarily pushing for a deadline I neglected to notice, but because I started weeks ago and just have so much to  get done - and that's after the time spent trying to make sense of it all. I'm exhausted, but feeling driven toward a purpose.
 
+<!-- more -->
+
 Going out now happens once or twice a week, and often constitutes a drink at the pub with a few friends instead of a nightclub - which ironically now feels like an anti-social, isolating environment in comparison to how I saw them as a greenhorn a year and a half ago. They have their time, but it's all about the people you go with and what you're celebrating - not the drinks deals or themed nights you're coerced to submit to. I have an entirely different set of friends now, live somewhere different, and find myself with a different set of priorities from day to day.
 
 All three are preferable to the versions I had last year. I feel more independent, more focussed towards the actual future ahead as end of the tunnel comes slowly into sight. First year you're stumbling in and out of clubs dressed in tights and a cape, second you're looking for internships and opportunities to enhance your CV. I never would have thought this time last year that I'd be playing bass in a handful of groups (and getting paid for it), employed by the Uni, and have a scientific paper out under my own name. I was just trying to keep myself fed!

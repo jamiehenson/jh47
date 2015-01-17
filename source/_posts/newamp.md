@@ -18,6 +18,8 @@ I'm playing bass a lot these days, in venues that differ greatly in size, playin
 
 Then I brought down my old faithful Ashdown Electric Blue 180 from back home, and found that that too wasn't enough. So I ditched the Ashdown head and bought an Ampeg Portaflex PF500, which is three times more powerful, smaller, lighter, has more features and is generally better all round the board (it was pricey, mind...). But then I found that the 500W (or rather, 300W at 8 ohms) Ampeg was killing my old Ashdown speaker, a 150W rated Ashdown BlueLine. It was fine at the start of a gig, but 20 minutes in, the overall volume and tone would fall away harshly - presumably because the magnet in the speaker overheated and lost its magnetism from the barrage of power it was receiving. So a new speaker was needed too, a messier operation...
 
+<!-- more -->
+
 I bought an Eminence Deltalite II 2515, similar to what Ampeg cabs have. I got it on the merit that it was much more powerful than the BlueLine, and also a lot lighter (due to the material the magnet is made from).
 
 Here's my amp before the fit. I'd already made some modifications in adding some heavy duty wheels (as having to carry the amp as well as my bass and amp head would just be too much after taking it all around Bristol!), and painting the grill white. The cavity where the old amp was had been empty for a long time. The second picture shows the BlueLine.

@@ -10,6 +10,8 @@ date: 2012-12-17 01:52:10
 
 This term has been notably different to the ones previously at University, in that there is a far greater degree of freedom - both in terms of what to study, and how we want to study it. This has been great for me so far, as I have been able to chuck out (for now) all of the bone-dry theoretical guff that I hated last year, and instead concentrate on things that a) I’m better at, and b) I’m actually interested in. The main problem with last year was that we all had to study the same stuff, which would be fine if all students were equal in terms of what they are/aren’t good at – but we aren’t. One programme of study can’t cater for everyone.
 
+<!-- more -->
+
 Anyway, a third of this year is the “Games Project”, a hefty invitation from the department to “go nuts and make something cool”. It’s a fantastic idea, and aside from the Year Abroad programme (that I [never actually went on](http://jh47.com/2012/09/year-abroad-on-ice/)) it’s the reason I came to Bristol. A team of six, over around six months, making a fully-fledged game. Sounds pretty decent.
 
 It very much feels like [last year’s big software project](http://jh47.com/docueasy/), with the training wheels off. I’ve made games before, but only little Flash articles that took at most a day to make, and were made for novelty purposes, on my own. Here, you have to consider **time-management**, and how you **collaborate efficiently** with five other individuals who may potentially be working on the exact same items as you. You have to consider the balance between **imaginative design** and **technical feasibility**, and consider who’s best for each role. You have to **build something that people actually want to play**. It’s rather challenging.

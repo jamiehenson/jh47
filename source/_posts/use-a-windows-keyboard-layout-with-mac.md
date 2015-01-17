@@ -10,6 +10,8 @@ These days I find myself using Mac more and more for work. Ironic really, since 
 
 Anyway, I found that using my standard Windows keyboard worked well with it, but some of the keys were annoyingly the wrong way round (@ for ", and a number of other annoyances).
 
+<!-- more -->
+
 My flatmate, a more experienced Mac user, made [this custom keyboard layout](http://jh47.com/files/UK.keylayout "Windows keyboard layout for Mac") for a Windows keyboard on Mac, so things are the right way again and balance in the universe is restored. If you find yourself in a similar sitch, this may be useful! (I'm on Mac OSX Lion by the way, but it should work similarly for older versions)
 
 You install it like so:

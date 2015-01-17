@@ -20,6 +20,8 @@ It's been a while since my last update in this project blog, but a lot has happe
 
 Since then, I have been steadily improving and upscaling the design - providing a framework for six asynchronous water sensors. The more straight forward side to the development was in the hardware area. As can be seen below, the main vessel for the instrument is a shallow plastic tank, with water sensors spaced equidistantly across the side walls in a 3-3 configuration. Beneath is another plastic container with holed walls, which houses the Arduino and most of the electronics behind the instrument.
 
+<!-- more -->
+
 [caption id="attachment_625" align="aligncenter" width="480"][![The rough exterior of the initial prototype](http://jh47.com/wp-content/uploads/2013/11/2013-11-24-14.38.07-1024x757.jpg)](http://jh47.com/wp-content/uploads/2013/11/2013-11-24-14.38.07.jpg) The rough exterior of the initial prototype[/caption]
 
 The more difficult and time consuming element of the design was the software side. In the last post, I mentioned that I had selected PD (Pure Data) as the framework for handling the communication between the Arduino and FL Studio, and also handling the processing of the raw analog readings outputted by the sensors. While PD interfaced between the two extremes of the pipeline beautifully, and was quick to set up, its almost complete lack of documentation coupled with its steep learning curve made further development a difficult task.

@@ -15,6 +15,8 @@ I’ve had the city break bug since I nipped to Amsterdam a couple of months ago
 
 It was surreal just upping sticks on the Friday night, and being back for lectures on the Monday morning – slotting straight back into the routine. You collapse on the sofa when you get back and just think, “shit, I’ve just been to Denmark”.
 
+<!-- more -->
+
 Both Denmark and Sweden made a different impression on me to Amsterdam. Everything was super clean, and efficient – and we were as much interested in the clever gadgetry woven into the fabric of the city as the famous Danish design and architecture. Amsterdam had an underlying sense of dirty humour, Scandinavia generally seems a lot more traditional and sensible.
 
 One thing that was really strange and unexpected was that, walking around Copenhagen, I was reminded of when I went to America. It sounds absurd: the temperature neared 0**°**, the culture was blatantly European, and people tended to walk or cycle from A to B.

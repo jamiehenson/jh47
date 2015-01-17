@@ -15,6 +15,8 @@ My third year of University is fast approaching, with a little under a month to 
 
 The way I see it, the year abroad is vital, and tailored, for language students. I mean, if you’re studying a particular language, the benefits of immersing yourself in a place that natively speaks it far outweigh reading about it in books, from both a functional and a cultural perspective. But for those taking science, engineering et cetera, can it be equally as beneficial?
 
+<!-- more -->
+
 I have several friends on my course heading overseas, some there already, and I don’t doubt that they’ll benefit massively from the experience. But me personally, I just didn’t feel ready. I feel that exploring future prospects abroad is something more suited to when you have some more steady academic foundations and professional connections. However, on a different note, this would be the only time when you’d get to experience that new culture from a student’s perspective. You’d meet people you would never otherwise meet, go to places you wouldn’t even hear about at another time. There’s a strong appeal in that.
 
 There were other reasons why I didn’t go through with it: too much degree bias on the final year, I have a nice flat here, highly enjoyable musical commitments, friends. Furthermore, I don’t speak a foreign language (I’ve tended to neglect that path since secondary school, in favour of more technical subjects and music), and so that pretty much rules me out of the ERASMUS scheme. There was a lot less support (financial and otherwise) when going to the States.

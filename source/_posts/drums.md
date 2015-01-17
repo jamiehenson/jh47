@@ -14,6 +14,8 @@ The drums were the last piece of the puzzle, and when I got them (after spending
 
 Turns out, you can. And the software already exists for you to do it as well, pretty easily.
 
+<!-- more -->
+
 You'll need these things:
 
 *   The wireless dongle from your Guitar Hero drum set. (not tested with the Rock Band set, but similar should apply)

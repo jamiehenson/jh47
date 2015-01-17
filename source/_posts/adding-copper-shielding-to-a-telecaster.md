@@ -22,6 +22,8 @@ My most recent purchase was a Baja Telecaster, my final decision after months of
 
 While the classic 1952-based specification has many advantages, there was one primary feature I grew not to like, and that was the loud buzz when plugged in, but not playing. I’m not talking the standard single-coil hum that is customary of Fender instruments, it was far more severe. I’m talking some sort of grounding problem, since touching any metallic part of the guitar would kill the buzz – I was earthing it. Fine when playing seriously or using a noise-gate, but when chilling in my room noodling away, it was annoying as hell.
 
+<!-- more -->
+
 Scouring the internet for help (my first port of call in many a situation), I found that installing copper shielding was an almost sure-fire way of killing that buzz, at least on a Telecaster. So I set to it.
 
 The main thing you need is adhesive copper tape. It may sound like a tricky and expensive thing to get hold of but it really isn’t. A trick is to visit garden centres or home stores. They sell it to line plant pots, to deter slugs from crawling up and having a chomp on the plants (they get a small electric shock from the copper). Alternatively, I got some on eBay for under £4, which was perfect! ([bit.ly/TsZyqS](http://bit.ly/TsZyqS "http://bit.ly/TsZyqS")) Try to make sure that the adhesive of the tape is conductive.

@@ -16,6 +16,8 @@ Yesterday, we presented Waves To Waves to our peers and lecturers - demonstratin
 
 [caption id="attachment_646" align="aligncenter" width="680"][![Setting up the performance](http://jh47.com/wp-content/uploads/2013/12/2013-12-10-11.15.30-1024x757.jpg)](http://jh47.com/wp-content/uploads/2013/12/2013-12-10-11.15.30.jpg) Setting up the performance[/caption]
 
+<!-- more -->
+
 Below is some footage of us performing, using two keyboard synthesisers to accompany Waves To Waves for a light-hearted rendition of "Chariots of Fire":
 
 <iframe src="//player.vimeo.com/video/81500664" height="281" width="500" allowfullscreen="" frameborder="0"></iframe>

@@ -21,6 +21,8 @@ I've always followed the Hitman series religiously, simultaneously loving and ha
 
 In that respect, Hitman: Absolution isn't a Hitman game. But it isn't a bad game.
 
+<!-- more -->
+
 It plays like a Hitman mod for an enhanced edition of Splinter Cell: Conviction. Like Conviction, "missions" are a linear progression of independent sequences, that mostly consist of you sneaking around and hiding. You can mark and execute multiple targets, use cover effectively, and are reliant on the objects in the scene. There are quick-time events triggered by pushing buttons. There is a deep yet slightly ludicrous storyline based around rescuing a young, vulnerable girl, set in a small number of locations. But Conviction rewards you for violence, Absolution condemns you for it.
 
 Conviction wasn't a bad game, but it wasn't Splinter Cell anymore. It was a mish mash of everything else. It was instantly forgettable. The same will happen for Absolution for me, sadly.

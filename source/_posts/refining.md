@@ -14,6 +14,8 @@ date: 2013-11-27 23:37:12
 
 Two days ago, we got to the stage where we had the first point-to-point prototype of Waves To Waves - a system that took readings from the water, processed them, and fed them into a synthesiser as musical data. Since then we have gone further by improving the interface in all aspects. Below you can see Waves To Waves in a dark room, illuminated by on-board LED lights - it looks quite appealing! Additionally, we have built a wooden frame that houses the sensors and sits snugly on top of the tank. We thought this was more professional (and more waterproof) than using sticky tape.
 
+<!-- more -->
+
 [caption id="attachment_633" align="aligncenter" width="480"][![Waves To Waves in a dark room, illuminated by the onboard LEDs](http://jh47.com/wp-content/uploads/2013/11/2013-11-27-22.49.46-1024x757.jpg)](http://jh47.com/wp-content/uploads/2013/11/2013-11-27-22.49.46.jpg) Waves To Waves in a dark room, illuminated by the onboard LEDs[/caption]
 
 Aside from the wooden frame, and general tidy-ups, visually Waves To Waves doesn't appear that different to before. The majority of the changes come under the software - with the processing side of the instrument in Pure Data being completely overhauled.

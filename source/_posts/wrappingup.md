@@ -14,6 +14,8 @@ date: 2013-12-19 21:52:11
 
 Over the course of the past two months, I, along with two others, have developed a musical interface from scratch, using commonly available parts and software tools. We started by brainstorming with simple notes and ideas, and ended with a fully fledged prototype that we performed with in front of our class and lecturers. I have been keeping a blog throughout this whole process, which describes each of the stages in greater detail (a complete list of posts available [here](http://jh47.com/category/university/interactive-devices/)), but in this post I will wrap up what we did, as a rounded conclusion to the project.
 
+<!-- more -->
+
 ### <span style="line-height: 1.5em;">Coming up with Waves To Waves</span>
 
 <span style="line-height: 1.5em;">As I said in the opening paragraph, we started with nothing - coming together with a stack of Post-It notes and a small amount of time to fire out ideas to each other. We all knew that we wanted to do a musically-oriented project due to our respective musically-involved backgrounds and interests, but that was it. We started with ~30 ideas, ranging from the feasible to the comparatively ridiculous - but at that stage, no idea was a bad idea, as all steps helped to bring us closer to the final topic. Eventually, we narrowed it down to around four primary ideas, ranging from a tangible speaker that you physically manipulate to alter the sound, to a three-dimensional laser based instrument that uses fog as an interactive medium. However, we all settled on the concept of a "water-based musical interface", a small handful of words that would eventually turn into Waves To Waves (**WTW**).</span>

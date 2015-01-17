@@ -16,6 +16,8 @@ date: 2013-11-12 23:55:43
 
 Last week, we altered direction from our original course of action - heading towards a more collaborative and smaller-scale end goal instead of a large installation designed for a small number of participants at a time. Looking even further back to the start of the project, it was agreed that I would take the lead on the musical interfacing side of the project, due to my experience in the area on previous projects. This primarily involves the generation of music from the data extracted from the movement of the water.
 
+<!-- more -->
+
 Therefore, my task this week was to devise a way to get the water level sensors and the software synthesiser (FL Studio) to talk to each other. My pipeline was as follows:
 
 **Water sensor &gt; Arduino &gt; (MIDI Interface) &gt; DAW (FL Studio)**

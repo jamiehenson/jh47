@@ -19,6 +19,8 @@ Not to be confused with Fender's most popular line of short-scale guitars (you'd
 
 I recently bought the smallest in the line (not including the Mustang Mini) as a practice amp since I'd concluded that my flat in Bristol was just too quiet, and I didn't want to have to excavate my 500W mongrel from its cubby hole at the Uni every time I wanted to go louder than my acoustic. I'd researched for a good while, since I'm rather thrifty when it comes to things like this, and had not seen a bad word anywhere on the internet about this Mustang 1.
 
+<!-- more -->
+
 So I tried it out at the DV store across the road, testing with a Strat for a realistic comparison (since I'm well used to the quack-like tones of that guitar), and was instantly impressed by the clarity and the quality of the presets it offered. I cycled through the settings like an enthusiastic child able to open all his Christmas presents in rapid succession, before gleefully throwing my money at the assistant and sauntering out smugly with it under my arm. For £100 it was an absolute steal.
 
 [caption id="" align="aligncenter" width="400" caption="Look at this little guy!"]![](http://jh47.com/img/mustang.jpg "Fender Mustang I")[/caption]

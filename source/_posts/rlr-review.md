@@ -20,6 +20,8 @@ Whilst reading through the proceedings from this year's CHI conference, this pap
 
 In terms of a concept, the reflexive looper (or RLR as it's referred to in the paper) would definitely benefit me as a musician, as it directly tackles two of the main issues I encounter when practising alone - the absence of adaptive interaction between musician and a loop pedal, and the "stylistic mismatch" between musician and "minus-one" recordings which omit the part you are playing.
 
+<!-- more -->
+
 The way it works is interesting, employing a wide host of machine learning techniques to isolate features from live performance - extracting attributes such as the pitch extremities and the variance of pitch over a set time window. Using this information, the RLR is able to dynamically and interactively simulate the other two members of a jazz trio using one musician's input (regardless of whether they're playing bass, melody or chords) - which is highly impressive.
 
 Unfortunately, while the RLR liberates the musician from "canned music", it imposes the restriction of having to provide training data in the form of a chord chart beforehand, and requires MIDI information as well as a live audio stream. This significantly slows the process of self-accompaniment.

@@ -15,6 +15,8 @@ date: 2012-01-19 01:22:40
 
 I've had my Fender Stratocaster for many years and it's done me well - it was the first electric guitar I bought and I've barely tampered with it, aside from replacing the strings every few months. I didn't see the need. It's a great guitar. Next-level Mexican craftsmanship.
 
+<!-- more -->
+
 But it looked a little drab. It has an Arctic White finish, so with its maple neck and white pickguard, it all looked rather devoid of colour contrast. So, I picked up a black pickguard off the net and decided to install that, since black is literally as much of a contrast to white as you can get. Here's a picture of it before, with me using it during a Christmas bash:
 
 ![](http://jh47.com/img/guitar/before.jpg)

@@ -11,6 +11,8 @@ date: 2011-08-02 00:04:36
 
 We can't help but be taken in somewhat by Apple's advertising campaigns - you've got to hand it to them. We know that Windows machines are capable and, in my opinion, arguably more practical - but we don't _want_ them in the way we want the reassuringly expensive sheen of a MacBook Pro. For a good while now I've been curious to try the Mac OS X operating system out for a period longer than I can linger in an Apple Store, and with the ever growing presence of Mac machines owned by my friends, I investigated a way of getting the system without forking out the serious cash required for the hardware.
 
+<!-- more -->
+
 It is possible. A stroll through a minefield whilst blindfolded mind if you don't have the help, but indeed possible. If you're primarily a Windows user like myself, you may well be interested in having a go at this yourself. Had a kind of hollow victory in the end, but I'm tapping this out from Mac OS X, so, it worked! I'll go through my steps and findings, to save you the considerable research time.
 
 Initially, I was after a hard booting system that ran Mac on my (primarily Intel-based, which is important) hardware from the start. I'll cut straight to it, for this you'll need:

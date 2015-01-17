@@ -18,6 +18,8 @@ date: 2013-10-11 10:25:53
 
 <span style="color: #111111;"><span style="font-family: verdana, arial;"><span>As part of my fourth-year Interactive Devices unit, I was asked to study the following paper, which is highlighted as being one of the key contributions in recent years that works towards advancing the field of interactive devices to its next logical stage:</span></span></span>
 
+<!-- more -->
+
 _<span style="color: #111111;"><span style="font-family: verdana, arial;"><span>_**Reality-Based Interaction: A Framework for Post-WIMP Interfaces**_</span></span></span>_<span style="color: #111111;"><span style="font-family: verdana, arial;"><span>
 </span></span></span>_<span style="color: #111111;"><span style="font-family: verdana, arial;"><span>Robert J.K. Jacob Audrey Girouard Leanne M. Hirshfield Michael S. Horn</span></span></span>_<span style="color: #111111;"><span style="font-family: verdana, arial;"><span>
 </span></span></span>_<span style="color: #111111;"><span style="font-family: verdana, arial;"><span>Orit Shaer Erin Treacy Solovey Jamie Zigelbaum</span></span></span>_

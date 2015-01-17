@@ -16,6 +16,8 @@ date: 2013-11-05 14:34:31
 <header>This post contains a list of relevant literature compiled by the group. Accompanying each reference is a short description of the paper and reasons for its applicability to our project, Waves to Waves.</header>
 <div>
 
+<!-- more -->
+
 **1\. Tangible Sound: Musical Instrument Using Fluid Water (ICMC2000)**
 
 This paper is an example of a previous instrument built that uses water to create music. Our proposal takes a different slant to using water, but it is still interesting to see the author’s reasons for creating music from water.

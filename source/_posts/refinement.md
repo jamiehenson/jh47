@@ -15,6 +15,8 @@ This week was the third Interactive Devices lab session, where we had the opport
 
 For the data processing and visualisation components, we provisionally settled on **openFrameworks** - a large-scale open-source framework for creatively processing data that includes a large variety of functionality from the creation of rich visualisations, to the exporting of MIDI note data. For the software synthesiser, we settled on **FL Studio** (using **LoopBe1** as an internal MIDI bridge), due to the group’s existing familiarity with the program - and our successful use of it in previous projects of a similar nature.
 
+<!-- more -->
+
 These decisions were made with the original project model in mind (as in, the one outlined and iteratively developed during previous posts) - but after a discussion with Pete Bennett midway through today’s session, we decided to amend our initial model to make Waves To Waves more modular and collaborative. These changes were made in an effort to address a conceptual hole in our original model - how people were actually supposed to interact with Waves To Waves, and how to make it a fully interactive and involving experience.
 
 ### What did we change?

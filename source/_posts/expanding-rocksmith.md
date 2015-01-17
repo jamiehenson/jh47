@@ -20,6 +20,8 @@ Rocksmith is wonderful for a musician. Whether you're new to the guitar, or well
 
 But it's never likely to appeal to the masses as much as the toy-like Rock Band and Guitar Hero games, simply because Rocksmith isn't really a party game, and the controllers are quite expensive. The main drawback for me however, was that the choice of songs is rather small, and there is a lot of "filler" in the roster. Some classics, but a large number of tunes I'd never heard of, and have no interest in learning. There's DLC, but it's very expensive, coming in at around £2.50 a track.
 
+<!-- more -->
+
 However, I found that you can add your own tunes, relatively easily. It's not trivial, but it's not that taxing - it just needs a little time for inevitable trial and error. But you're rewarded with a personalised song library, at no extra cost - and all of a sudden, it is a party game.
 
 I won't copy out word for word someone else's work, so I'll refer you to this rather excellent [tutorial](http://www.smithyanvil.com/RocksmithCustomGuide.html). It requires a little bit of prior preparation though, so I'll fill you in on that.

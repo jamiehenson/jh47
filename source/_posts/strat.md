@@ -14,6 +14,8 @@ Recently I've been researching heavily into guitars, since I'm looking into buyi
 
 But they're damn good guitars. They wouldn't have lasted this long if they weren't any good right?
 
+<!-- more -->
+
 Back in the 50s when they were first made, they were a status symbol - a must have instrument. The sunburst finish of Buddy Holly's Strat on the cover of "The Chirping Crickets" symbolised a new injection of creativity amongst the sea of comparatively mundane guitars here in the UK. Before rock and roll, many guitarists played mainly classical guitar and the guitar wasn't exactly seen as an especially exciting instrument to play.
 
 From that point on, many of who are considered the world's best guitarists used Stratocasters almost exclusively: Hendrix, Clapton, Gilmour, Knopfler, Stevie Ray Vaughan to name a few. The Strat was known for its distinct look and versatility. The customary setup of three single-coil pickups and a floating tremolo allowed for a range of sounds that other guitars could only dream of.

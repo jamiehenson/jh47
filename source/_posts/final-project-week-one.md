@@ -10,6 +10,8 @@ It's been a week since the end of my January deadline onslaught, so after a coup
 
 To put it in its simplest terms, I'm building a reverse musical visualiser. Something that takes any visual input, whether that be from a film, a game, or a person's general activity on a computer screen, and converts it into music that somehow represents that activity. The purpose is mainly for individuals who are creating visual media, and want to test how certain types of soundtrack would fit with the content - for example a film maker who hasn't chosen their sound yet, or a game developer who's making a procedurally-generated game. I don't actually have a name yet.
 
+<!-- more -->
+
 The first thing I did was to break down music into its seven constituent parts: Dynamics, Tempo, Timbre, Rhythm, Melody, Harmony and Texture. I then decided how each of those parts would be represented inside my generation algorithms. The less-subjective parts of music (tempo, texture, timbre and dynamics) were easy to map to a set of visual features. The dynamics and texture would depend on the global rate of change of pixel colours, the timbre would depend on the types of colours that had high activity, and the tempo dependent on rhythmic spikes. But the melody, harmony and rhythm are going to be more difficult.
 
 There lies another set of questions that fundamentally underpin my program's functionality:

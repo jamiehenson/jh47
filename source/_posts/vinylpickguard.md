@@ -16,6 +16,8 @@ date: 2012-08-06 21:23:32
 
 I go through phases of what pickguards I want on my guitars - I own a couple of different colours for each one I have, and swap them depending on the mood. Trouble is, is that they usually cost around a tenner a time, and for what they are (essentially a piece of thin plastic), that's rather pricey. I then remembered that my flatmate had dozens of old vinyl records lying around, and made the connection that they would do a fairly decent job of being a scratchplate, whilst also looking a little different!
 
+<!-- more -->
+
 Interested in making your own? To start off with, I recommend you have these things:
 
 *   Vinyl record (duh)

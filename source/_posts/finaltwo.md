@@ -20,6 +20,8 @@ As stated during the previous post, yesterday we had a large brainstorming sessi
 
 Waves To Waves (name currently not finalised) is a water-driven musical instrument that creates ambient soundscapes from natural wave motion. WTW will directly generate sounds from the frequency and magnitude of waves in water, and will also allow manual interaction with the water to introduce new features into the soundscape.
 
+<!-- more -->
+
 The proposed hardware configuration is a large open-topped glass tank of water, with a camera mounted at one side to observe the physical movement of the water. Furthermore, vibration detectors are to be mounted inside the tank to monitor disturbances in the water.
 
 The challenge will be how WTW reacts to multiple simultaneous wave sources, and ensuring that the texture of the output sound scales accordingly whilst still sounding coherent and audibly pleasing. As well as the core audio foundation, there is also the potential for a visual component to tie in with the audio generation, projected upwards through the bottom of the tank.

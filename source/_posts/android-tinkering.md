@@ -16,6 +16,8 @@ Recently, I chucked out my old Nokia 5800, which I'd had for many years - I was 
 
 I got a Samsung Galaxy Ace, which in comparison to other Android phones I've encountered (S, S2, Defy, Desire, Wildfire) is a modest and capable phone but with a few notable limitations. I set about minimising the effect of those limitations to get the most out of it I could. I'm stuck with it for 2 years, after all. While these steps suit the Ace, they should suit any Android user, so they may help you too.
 
+<!-- more -->
+
 Firstly, the phone has a woeful amount of internal storage (around 160MB). With no extra steps, most apps you download will sit right on the phone itself, and, along with all the basic phone data (messages, contacts etc...), 160MB won't get you very far. Therefore, the solution is to utilise the phone's SD card, which you can easily replace for a larger capacity up to 32GB. An app called [Link2SD](https://play.google.com/store/apps/details?id=com.buak.Link2SD&amp;hl=en "Link2SD") does just that, by allowing you to transfer all apps to the SD card. The result: a lesser-burdened phone that has almost no app/storage limitation.
 
 Step two: all smartphones have a reputation for having tragic battery life. When I was a lad, my Nokia 3210 would last for a good fortnight, and was tough as old boots. Lightning could strike it, and the only result would be a full battery. These new phones aren't so resilient, and there's no sure fire way to reduce battery usage. However, these steps help:
