@@ -12,4 +12,4 @@ These days I'm the bass player of [The Bristol Hornstars](http://bigbandsoc.co.u
 
 Happy days. Catch me on [last.fm](http://www.last.fm/user/jhenson47), [Soundcloud ](http://soundcloud.com/jhenson/)and [YouTube](http://www.youtube.com/user/tufty47).
 
-<!-- if you want to have valid HTML, please be so kind and put the style part in the head of your page -->[<span style="display: block; width: 137px; height: 20px; padding: 20px 0 0 12px; overflow: hidden; -o-text-overflow: ellipsis; text-overflow: ellipsis;">J. Henson</span>](http://soundcloud.com/jhenson)
+[<span style="display: block; width: 137px; height: 20px; padding: 20px 0 0 12px; overflow: hidden; -o-text-overflow: ellipsis; text-overflow: ellipsis;">J. Henson</span>](http://soundcloud.com/jhenson)

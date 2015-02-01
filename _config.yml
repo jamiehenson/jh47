@@ -14,9 +14,9 @@ language: English
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://jh47.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:title/
 tag_dir: tags
-archive_dir: archives
+archive_dir: archive
 category_dir: categories
 code_dir: downloads/code
 permalink_defaults:
@@ -65,7 +65,7 @@ logger_format: dev
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: MMM D YYYY
+date_format: D MMM YYYY
 time_format: H:mm:ss
 
 # Pagination
@@ -81,6 +81,7 @@ disqus_shortname:
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
 theme: hexo-theme-phase
 exclude_generator:
+  - index
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
