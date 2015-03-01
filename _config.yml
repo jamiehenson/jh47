@@ -81,7 +81,7 @@ disqus_shortname:
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
 theme: persona-color
 exclude_generator:
-  - index
+- index
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
